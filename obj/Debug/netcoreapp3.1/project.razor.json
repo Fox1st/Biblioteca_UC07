@@ -14412,13 +14412,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\editarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\editarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\cadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\cadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,6 +14454,11 @@
     {
       "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14459,6 +14484,11 @@
     {
       "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\yanna\\Documents\\Senac\\C#\\Biblioteca\\Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\ListaDeUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
